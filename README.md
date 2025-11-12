@@ -2,7 +2,7 @@
 
 # Overview
 This project visualizes Netflix’s global catalog of movies and TV shows using **Power BI** ,**MySQL** and **Excel**  based on the dataset from Kaggle:
-## Netflix Movies and TV Shows Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
+Netflix Movies and TV Shows Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
 The goal was to build an interactive analytics dashboard for exploring Netflix content distribution by type, rating, genre, and country.
 
 ## Data Preparation Process
