@@ -44,7 +44,7 @@ Downloaded the Kaggle dataset (netflix_titles.csv)
 - **Language**: SQL
 
 ## Page 1 – Overview Dashboard
-- **KPIs**: **:Total Movies:6131**:, **:Total TV Shows: 2676**:
+- **KPIs**: **Total Movies:6131**, **Total TV Shows: 2676**
 - **Line Chart**: Shows by Release Year
 - **Bar Chart**: Shows by Ratings
 - **Bar Chart**: Top 10 Genres
