@@ -8,7 +8,7 @@ The goal was to build an interactive analytics dashboard for exploring Netflix c
 ## 1. Dataset Source:
 Downloaded the Kaggle dataset (netflix_titles.csv)
 ## 2. Data Cleaning & Transformation (Excel):
-*Used Text to Columns for the following fields: cast, director, listed_in, country
+- Used Text to Columns for the following fields: **cast, director, listed_in, country-**
 *Trimmed spaces, removed duplicates, and replaced blanks with NULL.
 *Split data into six separate sheets for better normalization:
 *netflix_titles: show_id, type, title, date_added, release_year, rating, duration, duration_type
