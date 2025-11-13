@@ -19,7 +19,7 @@ Downloaded the Kaggle dataset (netflix_titles.csv)
 - **listed_in**: show_id, listed_in_1 … listed_in_3
 - **country**: show_id, country_1 … country_12
 - **description**: show_id, description
-- Split data into **six separate sheets** for better normalization:
+- Split data into **six separate sheets** for better normalization
 
 ## 3. Database Setup (MySQL Workbench):
 - Created schema: **netflix_data**
@@ -65,7 +65,7 @@ Top genres include **International Movies, Dramas, and Comedies**.
 Global spread shows Netflix’s strong presence in **North America, Europe, and Asia**.
 
 - ## Preview
-  <img width="569" height="397" alt="screenshot2" src="https://github.com/user-attachments/assets/31e38033-fe11-4d26-a35b-9e999a144044" />
+<img width="569" height="397" alt="screenshot2" src="https://github.com/user-attachments/assets/31e38033-fe11-4d26-a35b-9e999a144044" />
 <img width="574" height="400" alt="screenshot1" src="https://github.com/user-attachments/assets/f9fb7466-c35f-4a24-a0e9-3a29a27d56ea" />
 
 ## Repository Tags
