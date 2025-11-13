@@ -60,9 +60,9 @@ Downloaded the Kaggle dataset (netflix_titles.csv)
 
 ## 💡 Insights
 - Majority of content on Netflix is **Movies (70%+)**.
-**TV-MA** and **TV-14** dominate rating categories.
-Top genres include **International Movies, Dramas, and Comedies**.
-Global spread shows Netflix’s strong presence in **North America, Europe, and Asia**.
+- **TV-MA** and **TV-14** dominate rating categories.
+- Top genres include **International Movies, Dramas, and Comedies**.
+- Global spread shows Netflix’s strong presence in **North America, Europe, and Asia**.
 
 - ## Preview
 <img width="569" height="397" alt="screenshot2" src="https://github.com/user-attachments/assets/31e38033-fe11-4d26-a35b-9e999a144044" />
